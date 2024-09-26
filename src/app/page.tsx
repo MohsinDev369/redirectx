@@ -6,7 +6,7 @@ export default function Home() {
   router.push("https://x.com/intent/user?screen_name=TheMohsinAkram");
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>Redirecting to x...</div>
+      <div>Lets connect and be firends...</div>
     </main>
   );
 }
